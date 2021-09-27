@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aircraftCreator", "aircraftCreator\aircraftCreator.csproj", "{550E4EB8-4B03-4551-9BDB-F16CA80C94A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550E4EB8-4B03-4551-9BDB-F16CA80C94A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550E4EB8-4B03-4551-9BDB-F16CA80C94A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550E4EB8-4B03-4551-9BDB-F16CA80C94A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550E4EB8-4B03-4551-9BDB-F16CA80C94A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CE7A22-48D9-4D36-A78C-1D7ED65FED3B}
+	EndGlobalSection
+EndGlobal
